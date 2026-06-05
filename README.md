@@ -123,7 +123,9 @@ The goal was to identify operational bottlenecks, workflow gaps, and opportuniti
 * PowerPoint
 * GitHub
 
+## Operations Workflow
 
+![Operations Workflow](Aesthetics_Operations_Workflow.png)
 ---
 
 ## Future Direction
@@ -143,6 +145,4 @@ Planned future work includes:
 
 Aesthetics was inspired by the belief that traditional handmade art should continue to thrive while creating sustainable earning opportunities for rural women artisans through culturally meaningful products and community-centered business models.
 
-## Operations Workflow
 
-![Operations Workflow](Aesthetics_Operations_Workflow.png)
