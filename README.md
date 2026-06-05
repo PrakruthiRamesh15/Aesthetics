@@ -142,3 +142,7 @@ Planned future work includes:
 ## About Aesthetics
 
 Aesthetics was inspired by the belief that traditional handmade art should continue to thrive while creating sustainable earning opportunities for rural women artisans through culturally meaningful products and community-centered business models.
+
+## Operations Workflow
+
+![Operations Workflow](Aesthetics_Operations_Workflow.png)
