@@ -52,6 +52,16 @@ To support these findings, a milestone-based tracking architecture has been mapp
 To operationalize the "Milestone Tracking" recommendation, an interactive front-end prototype was developed. This dashboard is designed for regional coordinators to update delivery statuses and monitor artisan capacity in real-time, bridging the gap between raw data and field operations.
 
 🔗 **[View the Live Prototype Here](https://lovable.dev/projects/16eac5fb-d580-413d-a908-934f9e6f4f00)**
+<table>
+  <tr>
+    <td align="center"><img src="Screenshot 2026-06-08 003220.png" alt="Dashboard View 1" width="400"/><br/><b>Dashboard Overview</b></td>
+    <td align="center"><img src="Screenshot 2026-06-08 003245.png" alt="Dashboard View 2" width="400"/><br/><b>Order Tracking</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Screenshot 2026-06-08 003312.png" alt="Dashboard View 3" width="400"/><br/><b>Capacity Metrics</b></td>
+    <td align="center"><img src="Screenshot 2026-06-08 003340.png" alt="Dashboard View 4" width="400"/><br/><b>Artisan Profiles</b></td>
+  </tr>
+</table>
 
 *Note: This prototype models the user interface and workflow requirements necessary for the venture's logistics team to execute the proposed supply management strategies.*
 
