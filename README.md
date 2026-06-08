@@ -48,6 +48,14 @@ To support these findings, a milestone-based tracking architecture has been mapp
 
 ---
 
+## 🖥️ Interactive Solution Prototype (Lovable)
+To operationalize the "Milestone Tracking" recommendation, an interactive front-end prototype was developed. This dashboard is designed for regional coordinators to update delivery statuses and monitor artisan capacity in real-time, bridging the gap between raw data and field operations.
+
+🔗 **[View the Live Prototype Here](https://lovable.dev/projects/16eac5fb-d580-413d-a908-934f9e6f4f00)**
+
+*Note: This prototype models the user interface and workflow requirements necessary for the venture's logistics team to execute the proposed supply management strategies.*
+
+---
 ## 🚀 Future Direction
 To further build upon this operational foundation, planned iterations for this infrastructure include:
 * Developing an interactive **Tableau / Power BI** dashboard for real-time capacity visualization.
