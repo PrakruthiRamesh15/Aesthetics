@@ -1,3 +1,5 @@
+URL:https://aesthetics-eco-market.lovable.app
+
 # Aesthetics
 
 Aesthetics is a venture initiative focused on connecting rural Indian women artisans with customers seeking sustainable, personalized, and culturally rooted products for gifting, festivals, and events.
