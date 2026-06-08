@@ -54,18 +54,18 @@ To operationalize the "Milestone Tracking" recommendation, an interactive front-
 🔗 **[View the Live Prototype Here](https://lovable.dev/projects/16eac5fb-d580-413d-a908-934f9e6f4f00)**
 <table>
   <tr>
-    <td align="center"><img src="Screenshot 2026-06-08 003220.png" alt="Dashboard View 1" width="400"/><br/><b>Dashboard Overview</b></td>
-    <td align="center"><img src="Screenshot 2026-06-08 003245.png" alt="Dashboard View 2" width="400"/><br/><b>About</b></td>
+    <td align="center"><img src="Screenshot 2026-06-08 003220.png" alt="Dashboard View 1" width="600"/><br/><b>Dashboard Overview</b></td>
+    <td align="center"><img src="Screenshot 2026-06-08 003245.png" alt="Dashboard View 2" width="600"/><br/><b>About</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="Screenshot 2026-06-08 003312.png" alt="Dashboard View 3" width="400"/><br/><b>Shop</b></td>
-    <td align="center"><img src="Screenshot 2026-06-08 003340.png" alt="Dashboard View 4" width="400"/><br/><b>Purchase</b></td>
-    <td align="center"><img src="Screenshot 2026-06-08 003437.png" alt="Dashboard View 1" width="400"/><br/><b>Our mission</b></td>
-    <td align="center"><img src="Screenshot 2026-06-08 003509.png" alt="Dashboard View 2" width="400"/><br/><b>About Artisans</b></td>
+    <td align="center"><img src="Screenshot 2026-06-08 003312.png" alt="Dashboard View 3" width="600"/><br/><b>Shop</b></td>
+    <td align="center"><img src="Screenshot 2026-06-08 003340.png" alt="Dashboard View 4" width="600"/><br/><b>Purchase</b></td>
+    <td align="center"><img src="Screenshot 2026-06-08 003437.png" alt="Dashboard View 1" width="600"/><br/><b>Our mission</b></td>
+    <td align="center"><img src="Screenshot 2026-06-08 003509.png" alt="Dashboard View 2" width="600"/><br/><b>About Artisans</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="Screenshot 2026-06-08 003532.png" alt="Dashboard View 3" width="400"/><br/><b>Customization</b></td>
-    <td align="center"><img src="Screenshot 2026-06-08 003634.png" alt="Dashboard View 4" width="400"/><br/><b>Contact Us</b></td>
+    <td align="center"><img src="Screenshot 2026-06-08 003532.png" alt="Dashboard View 3" width="600"/><br/><b>Customization</b></td>
+    <td align="center"><img src="Screenshot 2026-06-08 003634.png" alt="Dashboard View 4" width="600"/><br/><b>Contact Us</b></td>
   </tr>
 </table>
 
