@@ -1,150 +1,57 @@
-URL:https://aesthetics-eco-market.lovable.app
+# Aesthetics: Operational Intelligence & Artisan Analytics
 
-# Aesthetics
+Aesthetics is a social impact venture, developed during the Tufts MSIM program, focused on connecting rural Indian women artisans with customers seeking sustainable, personalized, and culturally rooted products for gifting, festivals, and events.
 
-Aesthetics is a venture initiative focused on connecting rural Indian women artisans with customers seeking sustainable, personalized, and culturally rooted products for gifting, festivals, and events.
-
-As part of the venture exploration and validation process, this repository was used to organize stakeholder research, operational workflows, reporting structures, and analytics concepts related to artisan coordination and order fulfillment.
-
-The work included elements of business analysis, operational tracking, reporting workflows, stakeholder coordination, and early-stage data analysis while participating in entrepreneurship and innovation programs including Hult Prize and university innovation sprint activities.
+This repository serves as a functional prototype of the data infrastructure and operational workflows required to scale the venture. Drawing on real operational frameworks, this trial environment bridges the gap between raw artisan data and executive decision-making.
 
 ---
 
-## Operational & Business Context
+## 📊 Venture Scope & Objectives
+The goal of this operational analysis is to transition Aesthetics from early-stage venture validation into a scalable, data-driven business model. The systems modeled here manage:
+* **Revenue Optimization:** Identifying high-value customer segments and product categories.
+* **Fulfillment Visibility:** Tracking delivery timelines to mitigate B2B relationship risks.
+* **Capacity Planning:** Monitoring artisan workloads to prevent burnout and production bottlenecks across regional groups.
 
-During the development of Aesthetics, research was conducted to better understand challenges related to:
-
-* artisan coordination
-* delivery workflows
-* operational visibility
-* stakeholder communication
-* production capacity
-* fulfillment timelines
-* customer demand trends
-
-The initiative also explored how structured reporting and operational analysis could support scalable artisan-based business operations.
+## 🛠️ Tech Stack & Skills Demonstrated
+* **Languages & Libraries:** Python (`pandas`, `openpyxl`)
+* **Tools:** Microsoft Excel, VS Code, Git/GitHub
+* **BA Competencies:** Requirements Analysis, KPI Development, Stakeholder Management, Process Improvement, Data Storytelling
 
 ---
 
-## Stakeholder Research & Analysis
+## 📈 Python Operations Analysis (Prototype)
+To model the venture's data capabilities, an automated Python pipeline (`aesthetics_report.py`) was developed to ingest multi-sheet operational datasets (`Aesthetics_Project.xlsx`) encompassing order logs, artisan capacity metrics, and stakeholder records. 
 
-The repository includes datasets inspired by stakeholder discussions and venture research involving:
+The script dynamically calculates revenue drivers, fulfillment delay rates, and group utilization metrics, outputting an executive-ready weekly summary.
 
-* rural women artisans
-* women interested in learning creative skills
-* NGO coordinators
-* artisan entrepreneurs
-* event-focused customers
+### 🔥 Key Strategic Insights Generated
+Based on the prototype data run, the following business recommendations were identified for scaling:
 
-The goal was to identify operational bottlenecks, workflow gaps, and opportunities for process improvement and sustainable scaling.
+**1. Revenue Focus: Capitalize on High-Value Demand**
+* **Finding:** The *Wooden Toys* category, specifically tailored for *Wedding* settings, is the primary revenue driver.
+* **Recommendation:** Shift sales efforts toward standardized, high-margin B2B wedding packages rather than ad-hoc individual orders.
 
----
+**2. Risk Mitigation: Introduce Milestone Tracking**
+* **Finding:** The modeled workflow highlights a **20.7% operational delay rate**, severely risking relationships with timeline-strict event planners.
+* **Recommendation:** Implement regional checkpoints (e.g., material acquisition, mid-assembly) within the logistics workflow to catch delays before the final delivery window.
 
-## Areas Explored
-
-### Business & Operations Analysis
-
-* Order tracking workflows
-* Regional artisan coordination
-* Delivery and fulfillment monitoring
-* Revenue and demand analysis
-* Stakeholder segmentation
-
-### Reporting & Workflow Visibility
-
-* Operational reporting structures
-* KPI exploration
-* Delivery status tracking
-* Artisan performance analysis
-* Workflow organization concepts
-
-### Analytics & Data Exploration
-
-* Structured operational datasets
-* Revenue trend analysis
-* Delivery delay analysis
-* Stakeholder insight organization
-* AI-assisted operational insight ideas
+**3. Supply Management: Balance Capacity via Upskilling**
+* **Finding:** The *Embroidery* artisan cohort is operating at a localized high strain level (**20.5% capacity utilization**), creating a production bottleneck.
+* **Recommendation:** Transition incoming orders to under-utilized craft groups and launch peer-led upskilling programs to build cross-functional capacity across regions.
 
 ---
 
-## Repository Contents
-
-* Stakeholder interview datasets
-* Artisan operations tracking
-* Order fulfillment datasets
-* Reporting workflow concepts
-* Operational analysis exploration
-* AI insight planning notes
-* Business workflow documentation
-
----
-
-## Tools & Concepts Used
-
-### Business & Strategy
-
-* Business analysis
-* Stakeholder analysis
-* Market research and validation
-* Customer segmentation
-* Product and venture strategy
-* Business model exploration
-* Go-to-market planning
-* Competitive analysis
-* Financial and operational analysis
-* Gap analysis and process improvement
-* Product innovation concepts
-
-### Operations & Project Workflows
-
-* Operational workflow planning
-* Reporting and KPI tracking
-* Order fulfillment tracking
-* Process mapping
-* Cross-functional coordination
-* Project coordination
-* Workflow visibility and documentation
-* Operational research concepts
-
-### Data & Reporting
-
-* Excel
-* SQL concepts
-* Power BI concepts
-* Reporting workflows
-* Operational data organization
-* Revenue and delivery analysis
-* AI-assisted operational insight planning
-
-### Collaboration & Planning Tools
-
-* Jira
-* Miro
-* Figma
-* PowerPoint
-* GitHub
-
-## Operations Workflow
+## 🔄 Operations Workflow Concept
+To support these findings, a milestone-based tracking architecture has been mapped out to enhance visibility across the rural artisan network:
 
 ![Operations Workflow](Aesthetics_Operations_Workflow.png)
----
-
-## Future Direction
-
-Planned future work includes:
-
-* interactive dashboards
-* operational analytics visualization
-* AI-assisted reporting workflows
-* fulfillment tracking automation
-* Power BI dashboard development
-* workflow optimization analysis
 
 ---
 
-## About Aesthetics
+## 🚀 Future Direction
+To further build upon this operational foundation, planned iterations for this infrastructure include:
+* Developing an interactive **Tableau / Power BI** dashboard for real-time capacity visualization.
+* Mapping out the specific Jira workflows required for the logistics team to track the newly proposed milestone checkpoints.
 
-Aesthetics was inspired by the belief that traditional handmade art should continue to thrive while creating sustainable earning opportunities for rural women artisans through culturally meaningful products and community-centered business models.
-
-
+---
+*Aesthetics was inspired by the belief that traditional handmade art should continue to thrive while creating sustainable earning opportunities for rural women artisans through culturally meaningful products and community-centered business models.*
