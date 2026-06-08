@@ -59,7 +59,13 @@ To operationalize the "Milestone Tracking" recommendation, an interactive front-
   </tr>
   <tr>
     <td align="center"><img src="Screenshot 2026-06-08 003312.png" alt="Dashboard View 3" width="400"/><br/><b>Shop</b></td>
-    <td align="center"><img src="Screenshot 2026-06-08 003340.png" alt="Dashboard View 4" width="400"/><br/><b>Artisan Purchase</b></td>
+    <td align="center"><img src="Screenshot 2026-06-08 003340.png" alt="Dashboard View 4" width="400"/><br/><b>Purchase</b></td>
+    <td align="center"><img src="Screenshot 2026-06-08 003437.png" alt="Dashboard View 1" width="400"/><br/><b>Our mission</b></td>
+    <td align="center"><img src="Screenshot 2026-06-08 003509.png" alt="Dashboard View 2" width="400"/><br/><b>About Artisans</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Screenshot 2026-06-08 003532.png" alt="Dashboard View 3" width="400"/><br/><b>Customization</b></td>
+    <td align="center"><img src="Screenshot 2026-06-08 003634.png" alt="Dashboard View 4" width="400"/><br/><b>Contact Us</b></td>
   </tr>
 </table>
 
